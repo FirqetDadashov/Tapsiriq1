@@ -1,0 +1,12 @@
+C:\Users\admin\source\repos\task1\task1.ServiceDefaults\bin\Debug\net8.0\task1.ServiceDefaults.deps.json
+C:\Users\admin\source\repos\task1\task1.ServiceDefaults\bin\Debug\net8.0\task1.ServiceDefaults.dll
+C:\Users\admin\source\repos\task1\task1.ServiceDefaults\bin\Debug\net8.0\task1.ServiceDefaults.pdb
+C:\Users\admin\source\repos\task1\task1.ServiceDefaults\obj\Debug\net8.0\task1.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\task1\task1.ServiceDefaults\obj\Debug\net8.0\task1.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\task1\task1.ServiceDefaults\obj\Debug\net8.0\task1.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\task1\task1.ServiceDefaults\obj\Debug\net8.0\task1.ServiceDefaults.AssemblyInfo.cs
+C:\Users\admin\source\repos\task1\task1.ServiceDefaults\obj\Debug\net8.0\task1.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\task1\task1.ServiceDefaults\obj\Debug\net8.0\task1.ServiceDefaults.dll
+C:\Users\admin\source\repos\task1\task1.ServiceDefaults\obj\Debug\net8.0\refint\task1.ServiceDefaults.dll
+C:\Users\admin\source\repos\task1\task1.ServiceDefaults\obj\Debug\net8.0\task1.ServiceDefaults.pdb
+C:\Users\admin\source\repos\task1\task1.ServiceDefaults\obj\Debug\net8.0\ref\task1.ServiceDefaults.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5kv5EMrlmgi7TXzbTOAvdnmoyUUWoTFw0upegTqxIFo=",
+  "Source": "task1.ApiService",
+  "BasePath": "_content/task1.ApiService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
